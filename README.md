@@ -55,7 +55,7 @@ Attached is the ERD Diagram and the relational-schema.
 
 
 
-**For the whole scenario cases and it's findings** [Click here]()
+**For the whole scenario cases and it's findings** [Click here](https://github.com/Chibuike-Ile/SQL-World-Dataset-Project/blob/main/The%20whole%20scenario%20cases.pdf)
 
 
 About five of us made up the group.  As a team, we approach each scenario case one at a time.  It was an excellent chance to collaborate with others and share knowledge.
