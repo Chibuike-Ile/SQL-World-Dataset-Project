@@ -39,7 +39,6 @@ Attached is the ERD Diagram and the relational-schema.
 
 
 
-**For the full project** [Click here]()
 
 
 ### Some of the Scenario Cases:
@@ -61,6 +60,7 @@ Attached is the ERD Diagram and the relational-schema.
 **Cities with High GDP per Capital**
 
 ![18](https://github.com/user-attachments/assets/b23cf5df-314d-4cd9-b095-ec16cd437f93)
+
 
 
 
