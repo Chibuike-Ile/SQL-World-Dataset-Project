@@ -18,7 +18,11 @@ The Database was provided by **Just IT.** We then create and configure a Databas
 
 **For the Dataset** [Click here](https://github.com/Chibuike-Ile/SQL-World-Dataset-Project/blob/main/SQL%20world%20dataset/World%20Dataset.sql)
 
-**For the Codes on each scenario cases [Click here]()
+
+**For the Codes on each scenario cases** [Click here](https://github.com/Chibuike-Ile/SQL-World-Dataset-Project/blob/main/SQL%20world%20dataset/Scenario%20case.sql)
+
+
+**To access both** [Click here]()
 
 
 Attached is the ERD Diagram and the relational-schema.
